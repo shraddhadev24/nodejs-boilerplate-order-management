@@ -1,0 +1,32 @@
+.
+├── src
+│   ├── config
+│   │   └── constants.ts
+│   ├── controllers
+│   │   └── orderController.ts
+│   ├── middlewares
+│   │   ├── authMiddleware.ts
+│   │   └── errorMiddleware.ts
+│   ├── models
+│   │   └── orderModel.ts
+│   ├── routes
+│   │   └── v1
+│   │       └── orderRoutes.ts
+│   ├── services
+│   │   └── orderService.ts
+│   ├── utils
+│   │   ├── logger.ts
+│   │   └── validator.ts
+│   ├── app.ts
+│   ├── index.ts
+│   └── swagger.json
+├── tests
+│   └── order.test.ts
+├── .env
+├── .eslintrc.json
+├── .gitignore
+├── jest.config.js
+├── package.json
+├── README.md
+├── tsconfig.json
+└── CONTRIBUTING.md
