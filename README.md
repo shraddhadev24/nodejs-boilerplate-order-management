@@ -4,7 +4,7 @@
 This is a boilerplate for an order management application built with Node.js and TypeScript. It includes REST API versioning, Swagger documentation, Joi input validation, authentication and authorization middlewares, MongoDB for database connectivity, constants management, and unit test cases with Jest.
 
 ## Project Structure
-(Include the project structure here)
+Refer to Project-Structure.txt
 
 ## Setup Instructions
 
